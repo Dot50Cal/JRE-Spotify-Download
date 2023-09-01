@@ -9,11 +9,17 @@ FFMPEG: https://github.com/FFmpeg/FFmpeg
 
 # Tutorial:
 
-When ran, the script will prompt you for the audio "initialization" webm URL for the JRE video. To get this, load up the podcast episode page and use network tools (F12 in Chrome), navigate to the Network tab and filter on "webm" without quotes. Press the GREEN play button on the podcast episode page (this loads the video to play vs audio only), then pause the playback. Copy the URL for the first webm result without a number (there should be two, the first is audio, the second is video).
+When ran, the script will prompt you for the audio "initialization" webm URL for the JRE video. To get this, load up the podcast episode page and use network tools (F12 in Chrome). 
+1. Navigate to the Network tab.
+2. Filter on "webm" without quotes.
+3. Press the GREEN play button on the podcast episode page (this loads the video to play vs audio only), then pause the playback.
+4. Copy the URL for the first webm result without a number (there should be two, the first is audio, the second is video).
 
 ![Tutorial Image 1](https://i.imgur.com/7Pmg8Ac.jpg)
 
-Next, the script will ask you what the end time code is on the video. To get this, click and drag the seek bar along the bottom of the page to the end of the podcast while it is pause. Your network filters should show you a high numbered .webm URL. This number is the number you want to provide to the script.
+Next, the script will ask you what the end time code is on the video.
+1. Click and drag the seek bar along the bottom of the page to the end of the podcast while it is pause.
+2. Your network filters should show you a high numbered .webm URL. This number is the number you want to provide to the script.
 
 ![Tutorial Image 1](https://i.imgur.com/X0CwAzV.jpg)
 
