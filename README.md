@@ -18,7 +18,7 @@ When ran, the script will prompt you for the audio "initialization" webm URL for
 ![Tutorial Image 1](https://i.imgur.com/7Pmg8Ac.jpg)
 
 Next, the script will ask you what the end time code is on the video.
-1. Click and drag the seek bar along the bottom of the page to the end of the podcast while it is pause.
+1. Click and drag the seek bar along the bottom of the page to the end of the podcast while it is paused.
 2. Your network filters should show you a high numbered .webm URL. This number is the number you want to provide to the script.
 
 ![Tutorial Image 1](https://i.imgur.com/X0CwAzV.jpg)
