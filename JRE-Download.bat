@@ -19,7 +19,7 @@ for /L %%i in (0,4,%END%) do type "%cd%\%%i.webm" >> ..\video_tmp.webm
 cd ..
 type inita.webm audio_tmp.webm > audio.webm
 type initb.webm video_tmp.webm > video.webm
-ffmpeg -hide_banner -i video.webm -i audio.webm -c copy final_title.webm
+ffmpeg -hide_banner -i video.webm -i audio.webm -c copy final_title.mkv
 del /f audio.webm video.webm audio_tmp.webm video_tmp.webm inita.webm initb.webm
 rmdir /Q /S tmpaudio
 rmdir /Q /S tmpvideo
