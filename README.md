@@ -176,7 +176,7 @@ As of this writing, the podcast format's are in separate "folders". These folder
 
 **Why use Aria?**
 
-> Aria saves a lot of time when downloading large files, however in this instance it does not save a ton of time. This is due to the way Spotify chunks its files. It does same a little bit of time, maybe 20-30 seconds, but it is an improvement nonetheless.
+> Aria saves a lot of time when downloading large files, however in this instance it does not save a ton of time. This is due to the way Spotify chunks its files. It does save a little bit of time, maybe 20-30 seconds, but it is an improvement nonetheless.
 
 **Will this remove DRM?**
 
@@ -184,7 +184,7 @@ As of this writing, the podcast format's are in separate "folders". These folder
 
 **Why do this?**
 
-> I like to archive things I am interested in. Some JRE guests interest me and I began to notice that when he switched to Spotify, some of his older podcasts did not make the transition. There was a large effort to archive his older podcast, the majority of that was hosted on Odysee and Internet Archive, but recent takedowns have killed that project for the most part so I was forced to begin archiving them solo going forward. After finding the reddit post mentioned above, I developed this script to assist in making the download easier/quicker.
+> I like to archive things I am interested in. Some JRE guests interest me and I began to notice that when he switched to Spotify, some of his older podcasts did not make the transition. There was a large group effort to archive his older podcast, the majority of that was hosted on Odysee and Internet Archive, but recent takedowns have killed that project for the most part so I was forced to begin archiving them solo going forward. After finding the reddit post mentioned above, I developed this script to assist in making the download easier/quicker.
 
 **Can I adapt the script to force audio only?**
 
