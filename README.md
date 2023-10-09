@@ -27,6 +27,23 @@ Once this is done, the script has all it needs to kick off and download the podc
 
 # Technical Details:
 
+10-8-2023 Update:
+
+Starting with podcast #2038 (Trae Tha Truth), and interspersed, Spotify has changed the "folders" that I outlined below. The mappings now go down starting from 19 (Audio stream only) down to 15 (1920x1080 video stream). As such, I've added a second JRE Download Bat file which will get these podcasts. I'll do more research and see if this changes further. In the format of old #, new #, they are now:
+
+23=19 Audio Only
+
+22=18 640x480=568x320
+
+21=17 854x480=Same
+
+20=16 1280x720=Same
+
+19=15 1920x1080=Same
+
+
+Original details:
+
 As of this writing, the podcast format's are in separate "folders". These folders contain a number that corresponds to the quality provided. This script forces the highest quality video (19) and the best audio (23). The qualities are explained below from my findings:
 
 	23=Audio stream only
