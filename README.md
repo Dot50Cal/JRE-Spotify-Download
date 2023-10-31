@@ -27,6 +27,10 @@ Once this is done, the script has all it needs to kick off and download the podc
 
 # Technical Details:
 
+10-31-2023 Update:
+
+Starting with MMA Show Podcast #149 (Dan Henderson), Spotify has changed quality #'s again, up by 1, so 16 is now 1920x1080 and Audio is 20. I've added a 3rd edition of the downloader to adjust for this. Note that the prior episode to this (Fight Companion October 21 2023) still follows script #2's formatting, but the 1280x720 version is uploaded twice. This means there is no 1920x1080 rip avaialble since the Youtube livestream is now private.
+
 10-8-2023 Update:
 
 Starting with podcast #2038 (Trae Tha Truth), and interspersed, Spotify has changed the "folders" that I outlined below. The mappings now go down starting from 19 (Audio stream only) down to 15 (1920x1080 video stream). As such, I've added a second JRE Download Bat file which will get these podcasts. I'll do more research and see if this changes further. In the format of old #, new #, they are now:
