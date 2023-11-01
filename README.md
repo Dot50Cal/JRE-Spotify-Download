@@ -27,7 +27,7 @@ Once this is done, the script has all it needs to kick off and download the podc
 
 # Technical Details:
 
-As of 10-31-2023, the scrips you should use are:
+As of 10-31-2023, the scripts you should use are:
 
 | Quality | JRE Script 1 | JRE Script 2 | JRE Script 3 |
 | :---    | ------------ | ------------ | --------     |
