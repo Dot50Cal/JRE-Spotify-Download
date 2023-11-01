@@ -2,7 +2,7 @@
 A simple command line script to download Joe Rogan Experience episodes from Spotify in the highest quality.
 
 # Which Version Should I Download?
-See here: https://github.com/Dot50Cal/JRE-Spotify-Download/blob/main/README.md#technical-details
+See here: [https://github.com/Dot50Cal/JRE-Spotify-Download/blob/main/README.md#technical-details](https://github.com/Dot50Cal/JRE-Spotify-Download#technical-details)
 
 # Requirements:
 
