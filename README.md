@@ -14,9 +14,9 @@ FFMPEG: https://github.com/FFmpeg/FFmpeg
 
 When ran, the script will prompt you for the audio "initialization" webm URL for the JRE video. To get this, load up the podcast episode page and use network tools (F12 in Chrome). 
 1. Navigate to the Network tab.
-2. Filter on "webm" without quotes.
+2. Filter on "webm" without quotes (As of 12-23-2023, you should filter on "mp4").
 3. Press the GREEN play button on the podcast episode page (this loads the video to play vs audio only), then pause the playback.
-4. Copy the URL for the first webm result without a number (there should be two, the first is audio, the second is video).
+4. Copy the URL for the first webm (As of 12-23-2023, you should filter on "mp4") result without a number (there should be two, the first is audio, the second is video).
 
 ![Tutorial Image 1](https://i.imgur.com/7Pmg8Ac.jpg)
 
@@ -26,7 +26,7 @@ Next, the script will ask you what the end time code is on the video.
 
 ![Tutorial Image 1](https://i.imgur.com/X0CwAzV.jpg)
 
-Once this is done, the script has all it needs to kick off and download the podcast files, then combine them all into a single .webm with both audio and video. Once it is done combining into a final output (final_title.webm), it will automatically delete all the temporary files it needed to create the final result. A huge thank you to reddit user stabbedbybrick who discovered this method here (https://www.reddit.com/r/Piracy/comments/zzvc0t/guide_how_to_download_spotify_podcast_videos/).
+Once this is done, the script has all it needs to kick off and download the podcast files, then combine them all into a single .webm with both audio and video. Once it is done combining into a final output (final_title.mp4), it will automatically delete all the temporary files it needed to create the final result. A huge thank you to reddit user stabbedbybrick who discovered this method here (https://www.reddit.com/r/Piracy/comments/zzvc0t/guide_how_to_download_spotify_podcast_videos/).
 
 # Technical Details:
 
