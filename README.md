@@ -30,16 +30,22 @@ Once this is done, the script has all it needs to kick off and download the podc
 
 # Technical Details:
 
-As of 10-31-2023, the scripts you should use are:
+As of 12-23-2023, the scripts you should use are:
 
-| Quality | JRE Script 1 | JRE Script 2 | JRE Script 3 |
-| :---    | ------------ | ------------ | --------     |
-| Audio   | 23     | 19    | 20      |
-| Video (640x480/568x320)     | 22       | 18      | 19      |
-| Video (854x480)     | 21       | 17      | 18      |
-| Video (1280x720)     | 20       | 16      | 17      |
-| Video (1920x1080)     | 19       | 15      | 16      |
-| When to use script | Works til #2038 (Trae Tha Truth) | Works til #149 (MMA Dan Henderson) | Current episodes |
+| Quality | JRE Script 1 | JRE Script 2 | JRE Script 3 | JRE Script 4 |
+| :---    | ------------ | ------------ | --------     | --------     |
+| Audio   | 23     | 19    | 20      | 15      |
+| Video (320x100)		| N/A       | N/A      | N/A      | 13      |
+| Video (426x240)		| N/A       | N/A      | N/A      | 12      |
+| Video (640x480/568x320)     | 22       | 18      | 19      | 11      |
+| Video (854x480/854x400)     | 21       | 17      | 18      | 10      |
+| Video (1280x720)     | 20       | 16      | 17      | 9      |
+| Video (1920x1080)     | 19       | 15      | 16      | 8      |
+| When to use script | Works til #2038 (Trae Tha Truth) | Works til #149 (MMA Dan Henderson) | Works til #2054 (Elon Musk) | Current episodes |
+
+12-23-2023 Update:
+
+A few things have changed, most noticable is a switch to mp4 container's for the video/audio rather than webm. The 4th script has been updated. Also, there are some episodes that have video issues for the 1080p copy. The ones I noticed are 2055 Tim Kennedy, 2075 Protect Our Parks Part 1, and the last 2-3 minutes of the MMA 151 with Bo Nickal. I am not sure what has caused this but assume it is uncorrectable at this time and deferred to 720p copies for those episodes. This is why I included a specific 720p script this time. Its also become somewhat clearer that I believe Spotify is changing the quality #'s around in a programatic fasion to deter what we are doing here, or at least make it harder. I am hoping this ceases since it appears their infrastructure change is complete with the switch to mp4, but will keep monitoring for updates.
 
 10-31-2023 Update:
 
