@@ -43,6 +43,10 @@ As of 12-23-2023, the scripts you should use are:
 | Video (1920x1080)     | 19       | 15      | 16      | 8      |
 | When to use script | Works til #2038 (Trae Tha Truth) | Works til #149 (MMA Dan Henderson) | Works til #2054 (Elon Musk) | Current episodes |
 
+04-03-2024 Update:
+
+I'm happy to report things appear to still be working just fine. Joe has been posting his episodes in full on YouTube now since episode 2111 with Kat Williams. I'll do a little quality breakdown/check comparing YouTube to Spotify when I have time, but I suspect that will be the final update for this project. I'll be making a new project which utilizes ytdlp to automate downloads for future JRE episodes.
+
 12-23-2023 Update:
 
 A few things have changed, most noticable is a switch to mp4 container's for the video/audio rather than webm. The 4th script has been updated. Also, there are some episodes that have video issues for the 1080p copy. The ones I noticed are 2055 Tim Kennedy, 2075 Protect Our Parks Part 1, and the last 2-3 minutes of the MMA 151 with Bo Nickal. I am not sure what has caused this but assume it is uncorrectable at this time and deferred to 720p copies for those episodes. This is why I included a specific 720p script this time. Its also become somewhat clearer that I believe Spotify is changing the quality #'s around in a programatic fasion to deter what we are doing here, or at least make it harder. I am hoping this ceases since it appears their infrastructure change is complete with the switch to mp4, but will keep monitoring for updates.
